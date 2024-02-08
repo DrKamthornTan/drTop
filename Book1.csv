@@ -1,0 +1,219 @@
+age,gender,wt,ht,bmi,bp,pr,bl,hb,wbc,hbsag,hbsab,antihbs,addict,lead,mer,ars,benz
+30,Female,56.25,155.0,23.41,102/70 ,66,O,12.2,7.14,Negative,Positive,Negative,Negative, -, -, -, -
+38,Male,81.2,167.8,28.84,116/79 ,68,A,13.8,5.73,Negative,Positive,Negative,Negative,19.43,0.51,33.72,16.23
+39,Male,69.2,170.0,23.94,128/87 ,74,B,14.4,6.12,Negative,Positive,Negative,Negative,17.29,0.97,9.91,20.70
+35,Male,67.4,168.7,23.68,130/88 ,52,A,15.1,4.78,Negative,Positive,Negative,Negative, -, -, -, -
+42,Male,93.4,168.0,33.09,129/84,77,O,14.4,7.2,Negative,Positive,Negative,Negative,2.27,0.63,83.36,13.06
+34,Male,77.7,175.2,25.31,109/70 ,63,O,15.5,5.51,Negative,Positive,Negative,Negative,2.73,0.54,74.73,8.86
+54,Male,80.0,179.0,24.97,110/80 ,69,O,15.0,6.36,Positive,Negative,Positive,Negative,1.63,0.24,29.84,7.29
+49,Female,70.3,160.0,27.46,111/73 ,80,O,12.1,5.23,Positive,Negative,Positive,Negative, -, -, -, -
+47,Female,59.0,163.5,22.07,117/77,70,B,11.7,6.99,Negative,Positive,Negative,Negative, -, -, -, -
+52,Female,69.8,158.5,27.78,145/90 ,60,B,13.1,5.74,Negative,Positive,Negative,Negative, -, -, -, -
+38,Female,84.0,159.0,33.23,117/79 ,78,B,12.5,11.46,Negative,Positive,Negative,Negative, -, -, -, -
+28,Female,91.9,160.6,35.63,123/75 ,65,B,13.5,7.21,Negative,Positive,Negative,Negative,16.18,0.55,7.1, -
+37,Male,85.1,166.5,30.7,131/88 ,82,B,14.7,8.62,Negative,Positive,Positive,Negative,24.56,0.2,72.51,21.57
+30,Male,69.3,177.2,22.07,108/69 ,58,B,16.2,5.34,Negative,Positive,Negative,Negative,2.00,0.54,49.05,7.79
+34,Female,91.6,158.0,36.69,122/88 ,68,A,12.8,8.66,Negative,Positive,Negative,Negative, -, -, -, -
+38,Female,56.9,157.8,22.85,114/74 ,67,AB,13.3,5.63,Negative,Positive,Negative,Negative,1.64,0.78,23.61,65.31
+31,Female,58.65,155.4,24.29,104/69 ,83,A,11.0,5.4,Negative,Positive,Negative,Negative, -, -, -, -
+33,Female,84.5,155.3,35.04,102/68 ,72,A,12.7,7.78,Negative,Positive,Negative,Negative, -, -, -, -
+28,Male,92.2,179.0,28.78,132/78,62,B,14.8,7.02,Negative,Positive,Negative,Negative, -, -, -, -
+32,Male,95.05,173.8,31.47,131/89 ,77,O,16.6,4.68,Negative,Positive,Negative,Negative,1.23,0.48,35.04,10.47
+31,Female,57.55,158.6,22.88,96/65 ,52,B,13.1,11.68,Negative,Positive,Negative,Negative, -, -, -, -
+25,Male,68.1,169.0,23.84,126/80,73,B,15.2,5.71,Negative,Positive,Negative,Negative,12.72,0.22,129.97,72.11
+24,Male,83.7,177.0,26.72,108/67 ,63,O,14.2,4.69,Negative,Positive,Negative,Negative,20.31,0.25,34.34,6.87
+25,Male,57.1,169.1,19.97,121/83 ,83,B,16.6,7.24,Negative,Positive,Negative,Negative,1.04,0.54,15.91,44.67
+24,Male,67.75,170.5,23.31,108/69,48,O,16.1,6.49,Negative,Negative,Negative,Negative,1.79,0.37,101.35,53.89
+24,Male,62.8,169.3,21.91,103/61 ,65,O,16.0,7.78,Negative,Negative,Negative,Negative,1.28,0.27,220.57,20.91
+49,Male,69.65,173.1,23.24,121/78 ,73,B,14.5,5.07,Negative,Positive,Negative,Negative, -, -, -, -
+37,Male,73.42,168.6,25.83,123/80 ,73,O,13.7,8.57,Negative,Positive,Negative,Negative, -, -, -, -
+47,Female,60.9,165.8,22.15,106/66 ,80,B,14.1,6.81,Negative,Positive,Negative,Negative, -, -, -, -
+44,Female,76.5,166.5,27.6,105/67 ,73,A,12.3,3.6,Negative,Positive,Negative,Negative,13.79,2.46,2.2,76.72
+43,Male,84.2,170.4,29.0,130/82 ,55,O,14.8,5.98,Negative,Positive,Negative,Negative, -, -, -, -
+51,Female,52.6,156.1,21.59,95/61 ,72,B,14.8,4.14,Negative,Positive,Negative,Negative, -, -, -, -
+42,Female,48.0,161.5,18.4,127/86 ,83,A,13.6,6.17,Negative,Positive,Negative,Negative, -, -, -, -
+47,Male,69.05,165.6,25.18,119/80 ,73,A,13.5,5.17,Negative,Positive,Negative,Negative,1.21,0.62,20.94,3.62
+38,Male,57.9,168.3,20.44,111/70 ,67,B,13.3,4.32,Negative,Positive,Negative,Negative,1.85,0.64,21.71,<7.47
+53,Female,66.3,153.2,28.25,135/89 ,79,AB,13.5,6.81,Negative,Positive,Negative,Negative, -, -, -, -
+51,Female,61.8,158.1,24.72,123/82 ,59,O,13.9,4.13,Negative,Positive,Negative,Negative, -, -, -, -
+42,Male,81.0,168.9,28.39,122/73 ,75,O,14.2,6.54,Negative,Negative,Positive,Negative, -, -, -, -
+45,Male,83.6,173.8,27.68,135/86 ,72,A,14.8,5.8,Negative,Positive,Negative,Negative, -, -, -, -
+43,Male,78.95,162.9,29.75,134/85 ,72,O,12.8,7.14,Negative,Positive,Positive,Negative,18.52,8.19,94.91,5.44
+59,Male,81.0,162.0,30.86,134/77 ,67,O,15.7,11.17,Negative,Positive,Positive,Negative, -, -, -, -
+58,Male,91.6,175.0,29.91,131/80 ,78,O,13.2,5.51,Negative,Positive,Positive,Negative,14.93,0.95,63.90,11.20
+50,Male,44.25,165.6,16.14,106/63 ,60,B,15.0,5.15,Negative,Negative,Negative,Negative,5.02,1.07,31.97,28.97
+57,Male,56.85,150.3,25.17,154/102 ,73,A,15.5,5.61,Negative,Positive,Negative,Negative,1.79,0.36,34.57,5.68
+46,Female,57.65,160.8,22.3,99/62 ,66,A,11.3,6.48,Negative,Positive,Negative,Negative, -, -, -, -
+48,Female,58.3,154.6,24.39,122/78 ,72,B,11.9,10.37,Negative,Positive,Negative,Negative, -, -, -, -
+54,Male,60.8,163.2,22.83,117/77 ,65,A,13.5,5.87,Negative,Positive,Positive,Negative, -, -, -, -
+44,Male,66.95,170.3,23.08,125/87 ,68,A,15.0,4.59,Negative,Positive,Negative,Negative, -, -, -, -
+51,Male,70.5,173.2,23.5,115/79 ,75,B,13.1,5.37,Negative,Positive, Positive  ,Negative, -, -, -, -
+51,Male,65.7,164.9,24.16,110/72 ,69,O,14.7,7.28,Negative,Positive,Negative,Negative,14.67,0.52,17.72,10.39
+59,Male,59.35,160.4,23.07,132/82 ,72,AB,14.0,8.69,Positive,Negative,Positive,Negative,29.03,0.19,14.23,<5.92
+50,Male,79.2,160.7,30.67,140/80 ,60,O,15.9,10.09,Negative,Positive,Positive,Negative,2.20,0.60,46.10,75.58
+57,Male,51.5,155.6,21.27,134/71 ,60,A,15.3,5.68,Negative,Positive,Negative,Negative,1.23,2.16,9.99,11.25
+42,Male,80.35,177.4,25.53,130/87 ,69,A,15.2,6.28,Negative,Positive,Negative,Negative,2.22,0.66,34.57,11.23
+56,Male,78.75,167.7,28.0,142/84 ,80,B,13.9,3.77,Negative,Positive,Positive,Negative,2.08,0.32,82.51,9.63
+46,Male,79.3,167.1,28.4,147/92 ,54,O,16.1,5.58,Negative,Positive,Positive,Negative,13.75,0.34,21.44,10.63
+44,Male,78.1,176.4,25.1,141/89,60,O,14.7,4.08,Negative,Positive,Negative,Negative, -, -, -, -
+46,Male,70.8,159.7,27.76,135/83 ,59,O,14.3,6.46,Negative,Positive,Negative,Negative, -, -, -, -
+39,Male,71.4,173.0,23.86,109/73,69,0,15.4,6.73,Negative,Positive,Negative,Negative,13.94,2.67,35.29,51.5
+43,Male,102.05,172.6,34.26,138/87 ,76,A,15.3,7.09,Negative,Negative,Negative,Negative,12.81,0.38,46.89,25.77
+52,Male,94.0,175.7,30.45,135/83 ,64,O,13.8,6.31,Negative,Positive,Negative,Negative, -, -, -, -
+35,Male,86.2,165.7,31.4,136/90 ,95,B,14.4,9.52,Negative,Positive,Negative,Negative,1.90,0.70,37.75,20.39
+55,Male,61.4,161.9,23.42,149/105 ,70,O,14.5,5.75,Negative,Positive,Negative,Negative, -, -, -, -
+41,Male,88.8,173.0,29.67,122/81 ,74,O,14.7,6.97,Positive,Negative,Positive,Negative,2.10,0.71,45.64,<2.21
+38,Female,51.6,160.0,20.16,114/73 ,84,A,11.5,5.39,Negative,Positive,Negative,Negative, -, -, -, -
+43,Male,65.8,172.0,22.24,121/76 ,72,A,13.0,4.35,Negative,Positive,Negative,Negative, -, -, -, -
+44,Male,65.0,170.0,22.49,136/76 ,75,O,13.4,5.57,Negative,Positive,Negative,Negative,2.85,1.23,78.79,<5.92
+45,Female,58.3,162.6,22.05,154/93 ,60,B,12.3,3.23,Negative,Positive,Negative,Negative, -, -, -, -
+44,Male,73.0,169.0,25.56,124/77 ,72,O,14.7,4.24,Negative,Positive,Negative,Negative,2.56,0.57,29.68,6.33
+40,Female,88.15,154.0,37.17,117/80 ,68,O,11.5,4.46,Negative,Positive,Negative,Negative, -, -, -, -
+36,Female,59.7,157.3,24.13,100/66 ,76,AB,11.7,7.06,Negative,Positive,Negative,Negative, -, -, -, -
+39,Female,47.6,145.6,22.45,102/72 ,96,B,14.3,7.51,Negative,Positive,Negative,Negative, -, -, -, -
+50,Male,62.05,165.9,22.54,125/78 ,61,B,16.4,6.12,Negative,Positive,Negative,Negative, -, -, -, -
+49,Male,66.75,174.1,22.02,113/75 ,76,B,15.4,6.75,Negative,Positive,Negative,Negative, -, -, -, -
+35,Female,51.7,153.3,22.0,93/51 ,81,B,11.4,7.18,Negative,Positive,Negative,Negative, -, -, -, -
+33,Male,89.7,164.9,32.99,120/75 ,67,B,15.8,7.99,Negative,Positive,Negative,Negative,2.05,0.23,31.24,18.11
+35,Male,80.95,170.2,27.94,121/74 ,83,O,14.8,5.43,Negative,Positive,Negative,Negative,20.03,16.01,39.83,68.66
+38,Male,84.15,171.1,28.74,126/83 ,66,O,15.9,5.12,Negative,Positive,Negative,Negative,1.56,0.44,33.36,27.85
+39,Male,59.2,170.4,20.39,119/78 ,54,B,12.6,5.4,Negative,Positive,Negative,Negative,21.24,0.39,110.97,6.14
+36,Female,71.4,165.1,26.19,116/78 ,88,O,14.5,7.5,Negative,Positive,Negative,Negative, -, -, -, -
+33,Male,80.6,173.1,26.9,113/78 ,76,O,12.3,6.39,Negative,Positive,Negative,Negative,18.64,0.73,17.64,10.43
+32,Male,106.0,180.0,32.72,129/79 ,65,O,15.3,8.53,Negative,Positive,Negative,Negative,1.40,0.23,34.36,101.73
+33,Male,96.7,179.0,30.18,128/84 ,56,O,14.1,7.17,Negative,Positive,Negative,Negative, -, -, -, -
+37,Female,59.0,152.0,25.54,133/85 ,84,AB,12.1,9.06,Negative,Negative,Negative,Negative, -, -, -, -
+47,Male,104.75,175.1,34.17,136/92 ,54,O,15.1,6.99,Negative,Positive,Negative,Negative,2.34,0.24,73.05,7.38
+44,Male,91.9,175.0,30.01,119/87 ,70,O,15.8,8.78,Negative,Positive,Negative,Negative,1.79,0.59,33.88,12.93
+32,Male,72.1,172.5,24.23,138/96 ,76,O,15.1,7.17,Negative,Positive,Negative,Negative,2.58,0.38,61.83,37.73
+41,Female,65.6,160.1,25.59,128/87,66,A,11.6,5.91,Negative,Positive,Positive,Negative, -, -, -, -
+43,Male,110.8,178.7,34.7,137/92 ,65,AB,15.3,8.22,Positive,Negative,Positive,Negative,3.42,0.46,499.50,19.88
+34,Female,45.8,154.4,19.21,113/77 ,87,A,12.7,16.82,Negative,Positive,Negative,Negative, -, -, -, -
+32,Male,78.4,177.1,25.0,111/75 ,68,O,14.2,4.86,Negative,Positive,Negative,Negative,18.35,0.38,33.81,1.86
+37,Male,62.6,176.1,20.19,120/79,72,B,14.3,3.51,Negative,Positive,Positive,Negative,4.49,16.14,57.19,4.98
+34,Male,71.6,177.2,22.8,130/85,84,AB,14.3,5.76,Negative,Positive,Negative,Negative, -, -, -, -
+33,Female,49.6,153.6,21.02,99/67 ,61,A,13.9,7.67,Negative,Positive,Negative,Negative, -, -, -, -
+32,Male,116.0,178.0,36.61,117/80 ,65,0,15.8,8.16,Negative,Positive,Positive,Negative, -, -, -, -
+32,Male,94.2,173.1,31.44,129/84 ,70,A,15.8,4.12,Negative,Positive,Negative,Negative,3.44,0.34,44.63,15.69
+31,Male,104.9,172.4,35.29,148/102 ,58,O,14.7,8.84,Negative,Positive,Negative,Negative,16.54,0.67,47.16,17.05
+33,Female,59.0,160.0,23.05,106/74 ,72,B,12.7,5.35,Negative,Positive,Negative,Negative, -, -, -, -
+33,Female,52.2,150.0,23.2,112/73 ,79,O,12.5,8.16,Negative,Positive,Negative,Negative, -, -, -, -
+32,Male,62.85,168.0,22.27,135/84 ,71,B,15.3,5.98,Negative,Positive,Negative,Negative,2.38,0.25,95.10,17.29
+40,Female,53.6,156.3,21.94,113/68 ,95,A,12.8,6.78,Negative,Negative,Negative,Negative, -, -, -, -
+33,Male,82.4,175.2,26.84,132/78 ,55,O,14.6,6.39,Negative,Positive,Negative,Negative,9.48,0.45,34.28,12.95
+30,Male,61.35,166.1,22.24,125/88 ,79,O,14.3,6.6,Negative,Positive,Negative,Negative, -, -, -, -
+43,Male,82.6,167.0,29.62,136/89 ,67,A,15.1,6.38,Negative,Positive,Negative,Negative,1.83,0.37,232.47,36.25
+40,Male,82.9,169.9,28.72,131/84 ,86,O,15.3,6.15,Negative,Positive,Negative,Negative,1.40,0.82,136.93,13.14
+29,Male,65.4,169.4,22.79,130/84 ,50,A,14.8,5.07,Negative,Positive,Negative,Negative,2.49,0.73,71.94,20.49
+32,Male,90.95,170.0,31.47,100/68 ,81,A,15.5,6.27,Negative,Positive,Negative,Negative, -, -, -, -
+42,Male,72.2,167.6,25.7,124/85,69,A,14.9,6.93,Negative,Positive,Negative,Negative, -, -, -, -
+28,Male,63.65,165.0,23.38,96/60 ,61,O,15.2,3.41,Negative,Positive,Negative,Negative,38.39,0.75,64.82,19.71
+35,Female,107.15,165.6,39.07,119/81 ,79,O,14.6,7.41,Negative,Positive,Negative,Negative, -, -, -, -
+37,Female,67.9,171.0,23.22,105/62 ,72,B,10.0,5.69,Negative,Positive,Negative,Negative, -, -, -, -
+38,Male,106.6,176.5,34.22,127/80,97,O,13.7,6.5,Negative,Negative,Positive,Negative, -, -, -, -
+38,Male,149.7,173.9,49.5,131/90 ,77,B,14.5,7.08,Negative,Positive,Negative,Negative,16.73,0.30,22.02,6.66
+36,Male,57.4,163.6,21.45,125/81 ,73,O,15.2,7.54,Negative,Positive,Negative,Negative,1.95,0.16,60.57,<2.14
+31,Female,52.35,157.5,21.1,108/69 ,71,O,14.4,4.09,Negative,Negative,Negative,Negative, -, -, -, -
+33,Female,47.6,164.0,17.7,113/78 ,72,A,12.4,4.41,Negative,Positive,Positive,Negative, -, -, -, -
+31,Male,70.95,172.0,23.98,124/77 ,70,0,14.3,4.4,Negative,Positive,Negative,Negative,11.1,1.03,6.86,<27.53
+35,Male,68.6,178.8,21.46,114/74 ,65,B,14.1,5.02,Negative,Positive,Negative,Negative,1.30,1.50,42.26,11.96
+31,Male,86.86,173.4,28.89,140/99 ,80,B,15.3,7.49,Negative,Positive,Negative,Negative,2.79,0.55,32.24,9.34
+30,Female,43.8,148.8,19.78,113/69,77,O,10.6,4.77,Negative,Positive,Positive,Negative, -, -, -, -
+31,Female,49.9,164.3,18.49,98/66 ,61,O,11.2,5.44,Negative,Positive,Negative,Negative, -, -, -, -
+28,Female,52.4,161.1,20.19,108/69 ,71,AB,12.8,5.74,Negative,Positive,Negative,Negative, -, -, -, -
+47,Female,75.0,155.0,31.22,148/89 ,73,B,14.3,7.59,Negative,Negative,Negative,Negative, -, -, -, -
+29,Male,76.8,171.9,25.99,137/85 ,73,B,15.6,5.22,Negative,Positive,Negative,Negative, -, -, -, -
+38,Male,130.7,184.3,38.48,126/87 ,64,A,14.9,7.3,Negative,Positive,Negative,Negative, -, -, -, -
+52,Male,83.9,175.7,27.18,127/85 ,65,0,14.5,9.77,Negative,Negative,Negative,Negative, -, -, -, -
+32,Female,58.55,161.6,22.42,102/68 ,71,A,12.6,3.66,Negative,Positive,Negative,Negative, -, -, -, -
+41,Male,59.3,160.2,23.11,114/79 ,78,O,15.4,6.19,Negative,Positive,Negative,Negative, -, -, -, -
+25,Male,63.1,171.2,21.53,117/76 ,76,A,16.0,8.48,Negative,Positive,Negative,Negative,1.68,0.24,72.43,55.66
+26,Female,118.0,167.1,42.26,99/66 ,78,B,12.6,9.16,Negative,Positive,Negative,Negative,12.20,0.50,	171.38,36.67
+25,Male,64.8,170.0,22.42,120/71,56,O,12.8,6.1,Negative,Positive,Negative,Negative,15.98,0.68,52.94,10.78
+38,Male,62.15,177.1,19.82,123/79 ,66,B,15.1,7.7,Negative,Positive,Positive,Negative, -, -, -, -
+27,Male,71.8,173.5,23.85,124/81 ,68,O,14.2,6.09,Negative,Positive,Negative,Negative,1.84,1.71,532.03,9.52
+24,Male,93.8,173.4,31.2,135/76 ,86,O,14.2,10.05,Negative,Negative,Negative,Negative,1.71,0.22,106.57,14.17
+34,Male,69.45,167.4,24.78,131/82 ,78,O,12.6,11.81,Negative,Negative,Negative,Negative, -, -, -, -
+24,Male,77.2,172.6,25.91,128/69 ,70,O,15.0,4.29,Negative,Positive,Negative,Negative,3.37,0.38,64.87,<2.39
+27,Female,53.45,158.8,21.2,102/68 ,72,B,13.0,5.14,Negative,Positive,Negative,Negative, -, -, -, -
+28,Female,48.7,152.1,21.05,99/60,76,0,12.3,4.17,Negative,Positive,Negative,Negative, -, -, -, -
+27,Male,74.6,178.7,23.36,124/81 ,71,B,14.9,7.55,Negative,Positive,Negative,Negative,1.95,0.52,49.22,156.43
+26,Male,77.65,167.9,27.54,109/69 ,51,A,13.2,5.55,Negative,Positive,Negative,Negative,2.60,0.61,54.25,5.33
+25,Male,95.4,183.0,28.49,132/92 ,84,A,15.0,9.76,Negative,Positive,Negative,Negative,1.93,0.26,57.25,4.45
+26,Female,54.6,160.8,21.12,99/65 ,62,B,13.2,5.5,Negative,Positive,Negative,Negative,13.78,1.81,28.74,31.48
+42,Female,57.2,165.0,21.01,107/72,73,AB,13.0,5.55,Negative,Positive,Negative,Negative, -, -, -, -
+27,Female,70.5,168.0,24.98,104/69 ,66,O,11.1,4.86,Negative,Positive,Negative,Negative, -, -, -, -
+27,Male,52.75,171.7,17.89,121/77 ,71,B,14.5,4.92,Negative,Positive,Negative,Negative,14.75,0.45,37.18,6.41
+37,Female,89.2,160.0,34.84,109/76,90,A,14.5,8.9,Negative,Negative,Negative,Negative, -, -, -, -
+38,Male,65.4,165.0,24.02,127/76 ,68,AB,14.6,5.37,Negative,Positive,Negative,Negative, -, -, -, -
+41,Female,74.8,161.1,28.82,120/73 ,70,B,13.8,8.89,Negative,Positive,Negative,Negative, -, -, -, -
+25,Male,53.4,173.2,17.8,101/64,61,A,14.4,4.59,Negative,Positive,Negative,Negative,32.74,0.56,123.08,4.86
+41,Female,63.3,160.0,24.73,112/79 ,61,O,12.6,5.26,Negative,Positive,Negative,Negative, -, -, -, -
+23,Female,53.0,163.0,19.95,117/83 ,64,B,12.8,6.13,Negative,Positive,Negative,Negative,2.21,0.46,11.76,19.46
+38,Male,72.3,172.3,24.35,155/101 ,62,0,16.4,6.5,Negative,Negative,Negative,Negative,20.51,0.32,44.83,18.21
+23,Male,73.5,168.3,25.95,120/76 ,76,AB,15.1,7.52,Negative,Positive,Negative,Negative,0.83,0.33,111.13,14.26
+38,Male,69.8,178.0,22.03,129/89 ,76,O,14.5,5.42,Negative,Positive,Negative,Negative,1.96,0.86,72.26,10.35
+28,Male,58.05,166.6,20.91,115/71 ,78,A,13.5,6.0,Negative,Negative,Negative,Negative, -, -, -, -
+31,Female,56.8,154.3,23.86,117/81 ,73,O,12.2,7.14,Negative,Positive,Negative,Negative, -, -, -, -
+25,Male,71.0,167.4,25.34,119/74 ,78,AB,14.4,4.78,Negative,Negative,Negative,Negative, -, -, -, -
+32,Male,68.9,162.4,26.12,121/79 ,81,O,13.8,4.3,Negative,Negative,Negative,Negative, -, -, -, -
+31,Female,61.8,154.0,26.06,111/70 ,76,O,13.2,6.26,Negative,Negative,Negative,Negative, -, -, -, -
+32,Female,51.0,157.3,20.61,121/87,84,A,10.5,4.43,Negative,Negative,Negative,Negative, -, -, -, -
+53,Female,96.9,161.0,37.38,131/70 ,70,A,12.1,5.95,Negative,Positive,Negative,Negative, -, -, -, -
+33,Male,86.1,177.5,27.33,131/65 ,70,B,16.0,6.44,Negative,Positive,Negative,Negative, -, -, -, -
+39,Male,105.0,170.0,36.33,133/61,67,A,13.5,7.81,Negative,Positive,Negative,Negative, -, -, -, -
+49,Female,54.8,159.5,21.54,103/58,58,O,11.0,4.44,Negative,Positive,Negative,Negative, -, -, -, -
+58,Male,74.4,172.0,25.15,139/86 ,58,A,13.4,7.0,Negative,Positive,Negative,Negative, -, -, -, -
+54,Female,61.7,148.0,28.17,130/78 ,83,O,14.3,6.76,Negative,Positive,Positive,Negative, -, -, -, -
+42,Male,74.5,169.0,26.08,129/90 ,63,O,14.8,6.84,Negative,Positive,Negative,Negative,2.20,0.47,25.02,16.17
+59,Male,71.2,170.0,24.64,132/78 ,65,B,14.4,5.12,Negative,Positive,Negative,Negative, -, -, -, -
+45,Female,69.3,161.0,26.74,109/68,59,O,12.7,4.93,Negative,Negative,Negative,Negative, -, -, -, -
+47,Female,71.9,165.0,26.41,126/70 ,67,A,14.1,5.4,Inconclusive,Positive,Negative,Negative, -, -, -, -
+58,Female,67.1,158.0,26.88,137/65 ,82,A,14.2,7.03,Negative,Positive,Negative,Negative, -, -, -, -
+40,Male,76.7,171.0,26.23,117/77 ,70,B,15.2,4.27,Negative,Positive,Positive,Negative, -, -, -, -
+47,Female,68.0,154.0,28.67,107/68,81,A,13.3,7.82,Negative,Positive,Negative,Negative, -, -, -, -
+59,Female,49.1,159.0,19.42,155/80 ,104,O,12.5,5.26,Negative,Positive,Negative,Negative, -, -, -, -
+49,Male,117.2,171.5,39.85,138/77 ,64,B,14.2,5.76,Negative,Positive,Positive,Negative, -, -, -, -
+45,Male,60.9,168.5,21.45,120/79,76,O,12.3,8.81,Negative,Positive,Negative,Negative, -, -, -, -
+58,Female,85.5,156.5,34.91,152/94 ,75,B,12.3,8.05,Negative,Positive,Negative,Negative, -, -, -, -
+38,Female,61.0,150.0,27.11,104/57 ,52,A,12.3,6.59,Negative,Positive,Negative,Negative, -, -, -, -
+58,Male,73.1,169.7,25.38,113/65 ,64,B,13.8,4.34,Negative,Negative,Negative,negative, -, -, -, -
+31,Male,75.3,172.0,25.45,114/73,69,O,14.5,5.7,Negative,Positive,Negative,Negative, -, -, -, -
+32,Male,107.8,185.0,31.5,129/68,68,A,16.3,6.89,Negative,Positive,Negative,Negative, -, -, -, -
+32,Male,77.0,179.0,24.03,118/69 ,65,B,15.5,6.33,Negative,Positive,Negative,Negative, -, -, -, -
+32,Male,103.5,166.5,37.33,127/79 ,71,O,15.5,10.87,Negative,Negative,Positive,Negative,1.66,0.40,9.52,29.70
+28,Female,51.6,158.0,20.67,132/88,70,A,13.3,5.86,Negative,Positive,Negative,Negative, -, -, -, -
+35,Female,61.3,160.0,23.95,119/74 ,65,B,11.5,4.59,Negative,Positive,Negative,Negative, -, -, -, -
+34,Male,81.8,178.5,25.67,105/56 ,52,A,13.7,7.92,Negative,Positive,Negative,Negative,1.35,1.09,27.19,<3.75
+38,Male,62.6,162.0,23.85,142/88 ,80,O,15.0,7.36,Negative,Positive,Negative,Negative, -, -, -, -
+24,Female,47.0,160.0,18.36,97/61,60,O,10.7,4.26,Negative,Positive,Negative,Negative, -, -, -, -
+31,Female,49.8,156.5,20.33,108/75 ,88,B,11.5,8.42,Negative,Negative,Negative,Negative, -, -, -, -
+26,Female,54.5,165.5,19.9,104/58 ,83,AB,12.6,8.71,Negative,Positive,Negative,Negative, -, -, -, -
+26,Female,51.3,154.0,21.63,109/60 ,63,A,11.6,6.06,Negative,Positive,Negative,Negative, -, -, -, -
+28,Female,64.1,151.5,27.93,118/70 ,69,O,12.2,7.82,Negative,Positive,Negative,Negative, -, -, -, -
+24,Male,70.7,173.5,23.49,119/65 ,63,B,15.1,6.07,Negative,Negative,Negative,Negative, -, -, -, -
+29,Female,93.0,156.5,37.97,117/70 ,66,B,12.8,5.17,Negative,Positive,Negative,Negative, -, -, -, -
+24,Female,61.0,165.0,22.41,130/74 ,79,A,12.0,9.09,Negative,Positive,Negative,Negative, -, -, -, -
+28,Female,69.7,152.0,30.17,118/61 ,59,A,10.9,7.06,Negative,Positive,Negative,Negative, -, -, -, -
+26,Male,69.7,172.0,23.56,108/68 ,70,O,12.6,6.78,Negative,Positive,Negative,Negative, -, -, -, -
+43,Male,72.6,167.0,26.03,131/75 ,70,O,14.7,5.39,Negative,Negative,Negative,Negative, -, -, -, -
+24,Male,109.4,178.0,34.53,124/66 ,80,B,14.8,6.14,Negative,Negative,Negative,Negative,2.01,0.20,30.72,14.66
+22,Female,56.1,158.0,22.47,111/62 ,71,B,11.7,5.77,Negative,Negative,Negative,Negative, -, -, -, -
+27,Male,109.3,170.0,37.82,154/95,65,O,14.9,12.61,Negative,Positive,Negative,Negative,1.45,0.37,35.00,49.85
+26,Male,91.4,175.0,29.84,132/68 ,70,O,14.8,7.01,Negative,Positive,Negative,Negative, -,0.19,30.22,10.38
+28,Male,90.8,169.0,31.79,105/69 ,89,B,14.3,9.46,Negative,Negative,Negative,Negative, -, -, -, -
+39,Female,80.0,158.0,32.05,143/78 ,91,O,10.8,6.12,Negative,Positive,Positive,Negative, -, -, -, -
+35,Female,71.4,162.0,27.21,124/60 ,66,B,11.8,6.08,Negative,Positive,Negative,Negative, -, -, -, -
+35,Female,45.7,152.5,19.65,110/55 ,62,A,12.6,9.34,Negative,Positive,Negative,Negative, -, -, -, -
+50,Male,95.3,180.0,29.41,118/73 ,71,B,14.1,8.4,Negative,Positive,Positive,Negative, -, -, -, -
+52,Male,85.4,170.5,29.38,130/82 ,67,O,14.4,5.25,Negative,Positive,Negative,Negative,1.96,0.27,36.03,3.25
+44,Male,82.8,170.0,28.65,97/57 ,63,O,14.6,4.83,Negative,Positive,Negative,Negative,1.40,2.07,53.16,8.68
+50,Male,70.1,171.5,23.83,119/80 ,61,B,15.1,6.95,Negative,Positive,Positive,Negative, -, -, -, -
+33,Female,51.4,157.0,20.85,102/65 ,67,A,12.0,5.04,Negative,Positive,Negative,Negative, -, -, -, -
+53,Male,86.5,169.5,30.11,111/77 ,45,O,15.3,4.59,Negative,Positive,Negative,Negative, -, -, -, -
+37,Male,67.4,169.0,23.6,128/76 ,58,A,14.2,9.06,Negative,Negative,Negative,Negative, -, -, -, -
+30,Female,53.1,152.0,22.98,103/65 ,57,B,11.7,4.52,Negative,Positive,Negative,Negative, -, -, -, -
+48,Female,66.8,158.0,26.76,111/73 ,63,B,13.4,6.17,Negative,Positive,Negative,Negative, -, -, -, -
+43,Male,83.3,171.5,28.32,136/91 ,96,O,16.0,5.66,Negative,Positive,Negative,Negative, -, -, -, -
+24,Male,90.0,173.5,29.9,104/56 ,53,O,15.5,5.44,Negative,Positive,Negative,Negative,2.32,0.27,89.08,3.67
+24,Female,43.5,160.0,16.99,95/56 ,71,B,13.5,6.08,Negative,Positive,Negative,Negative, -, -, -, -
